@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.thelawstore.livesign.dev",
+      "sha256_cert_fingerprints":
+        ["6E:51:89:80:B5:C2:5D:A6:BF:64:60:5D:6A:9A:9A:9F:EF:2B:13:A4:7F:67:BD:D3:8F:ED:2C:53:F5:EC:88:01"]
+    }
+  }
+]
