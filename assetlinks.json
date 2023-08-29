@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.thelawstore.livesign",
+      "package_name": "com.thelawstore.livesign.local",
       "sha256_cert_fingerprints":
         ["D3:02:0C:62:C4:79:EB:05:F4:EE:B5:6D:4A:6B:DC:26:F2:00:44:83:F2:9C:F5:24:3C:CD:E2:32:4E:FB:21:90"]
     }
